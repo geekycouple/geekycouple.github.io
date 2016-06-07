@@ -1,0 +1,15 @@
+/*
+basic reset
+*/
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #ccc;
+}
+
+h1.welcome {
+  font-size: 22px;
+}
